@@ -3,7 +3,7 @@
 Hi! My name is Balahari Vignesh, I have worked with C/C++, Python projects in the fields of deep learning and sensor fusion.
 I'm currently working on a personal project involving computer vision, deep learning and sensor fusion, to improve the perception of driving environment.
 
-If you pursue the same interests, connect with me on LinkedIn:<a href="https://www.linkedin.com/in/balahari-vignesh-a8101787/">Balahari Vignesh</a>
+If you pursue the same interests, connect with me on LinkedIn : <a href="https://www.linkedin.com/in/balahari-vignesh-a8101787/">Balahari Vignesh</a>
 ---
 ### Github Stats:
 <a href="https://github.com/BalahariVignesh">
