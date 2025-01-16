@@ -1,7 +1,9 @@
 # BalahariVignesh
 
-Hi! My name is Balahari Vignesh, I have worked with C/C++, Python projects in the fields of deep learning and sensor fusion.
-I'm currently working on a personal project involving computer vision, deep learning and sensor fusion, to improve the perception of driving environment.
+Hi! My name is Balahari Vignesh, I am a research engineer working currently at Fraunhofer Institute for Cognitive Systems, Munich.
+I have worked with Automotive and Industrial automation related (Safety-Critical)projects, with a focus on assuring Safety for AI/Ml based systems.
+
+Caught up with recent interests towards Stable Diffusion and Agent-based approaches in LLMs using Retrieval Augmented Generation.
 
 If you pursue the same interests, connect with me on LinkedIn : <a href="https://www.linkedin.com/in/balahari-vignesh-a8101787/">Balahari Vignesh</a>
 ---
